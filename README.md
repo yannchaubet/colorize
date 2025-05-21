@@ -1,8 +1,11 @@
 # Optimal Transport (Python)
 
-This project provides a numerical simulation of optimal transport using Python.
+This project provides a colorization of an image with pixels from another, using optimal transport.
 
-It includes visualization of source and target distributions, and produces animations or plots using PIL and matplotlib.
+## ⛰️ Images
+
+<img src="https://github.com/user-attachments/assets/90381af1-2d15-4713-aa61-1db18be9d26e" width="300" />
+<img src="https://github.com/user-attachments/assets/24af0a91-c938-4108-bacc-0076763eedc8" width="300" />
 
 ## 📦 Requirements
 
