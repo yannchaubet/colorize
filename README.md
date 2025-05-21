@@ -1,4 +1,4 @@
-# Optimal Transport (Python)
+# Colorization via optimal transport (Python)
 
 This project provides a colorization of an image with pixels from another, using optimal transport.
 
